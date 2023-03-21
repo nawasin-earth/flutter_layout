@@ -43,7 +43,7 @@ class HomePage extends StatelessWidget {
                 imgPath:
                     "https://scontent.futh1-1.fna.fbcdn.net/v/t39.30808-6/322180316_2377445172411647_8999569951487089387_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHySX2fyuVg2R0VcxjczXFofYu4Veh7Ph99i7hV6Hs-H1P5upHtO6hozwCqKaw-r_xXfWGILgyhA7cvZNbTsDts&_nc_ohc=lF5VgTvsW-gAX81X5Ib&_nc_ht=scontent.futh1-1.fna&oh=00_AfBfbLPvYi6nWkDobUMgOPSCqthY5adhCCCUfPBG5FDA7Q&oe=641E6D40",
                 nickname: "earth",
-                stuID: "Student-ID : 633410014-4",
+                stuID: "Student-ID : 633410016-0",
                 contact: "FB: nawasin intem"),
             Card(
                 context: context,
